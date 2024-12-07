@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5919" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 682.7 682.7">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #4169ea;
+      }
+
+      .st1, .st2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 20px;
+      }
+
+      .st2 {
+        stroke: #000;
+      }
+
+      .st3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="682.7" height="682.7"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" width="682.7" height="682.7"/>
+    </clipPath>
+  </defs>
+  <g id="g5925">
+    <g id="g5927">
+      <g class="st4">
+        <g id="g5929">
+          <g id="g5935">
+            <path id="path5937" class="st2" d="M388.5,160.3v-42.6h33.7L341.3,10l-80.8,107.8h33.7v153.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="g5939">
+      <path id="path5941" class="st2" d="M388.5,271.3v-64.1"/>
+    </g>
+    <g id="g5943">
+      <path id="path5945" class="st2" d="M599.9,275.3v-48.5h33.7l-80.8-107.8-80.8,107.8h33.7v83.5"/>
+    </g>
+    <g id="g5947">
+      <path id="path5949" class="st2" d="M599.9,380.4v-58.3"/>
+    </g>
+    <g id="g5951">
+      <path id="path5953" class="st2" d="M82.7,275.3v-48.5h-33.7l80.8-107.8,80.8,107.8h-33.7v83.5"/>
+    </g>
+    <g id="g5955">
+      <path id="path5957" class="st2" d="M82.7,380.4v-58.3"/>
+    </g>
+    <g id="g5959">
+      <g class="st3">
+        <g id="g5961">
+          <g id="g5967">
+            <path id="path5969" class="st1" d="M341.3,268.6c-215.5,0-331.3,202-331.3,202,0,0,115.8,202,331.3,202s331.3-202,331.3-202c0,0-115.8-202-331.3-202Z"/>
+          </g>
+          <g id="g5971">
+            <path id="path5973" class="st2" d="M476,470.6c0,74.4-60.3,134.7-134.7,134.7s-134.7-60.3-134.7-134.7,60.3-134.7,134.7-134.7,134.7,60.3,134.7,134.7Z"/>
+          </g>
+          <path id="path5975" class="st1" d="M406,533.9h-43.1v-123.9h43.1v123.9Z"/>
+          <path id="path5977" class="st1" d="M362.9,533.9h-43.1v-95.6h43.1v95.6Z"/>
+          <path id="path5979" class="st1" d="M319.8,533.9h-43.1v-68.7h43.1v68.7Z"/>
+          <g id="g5981">
+            <path id="path5983" class="st1" d="M519.1,470.6h53.9"/>
+          </g>
+          <g id="g5985">
+            <path id="path5987" class="st1" d="M515.1,513.7h26.9"/>
+          </g>
+          <g id="g5989">
+            <path id="path5991" class="st1" d="M515.1,427.5h26.9"/>
+          </g>
+          <g id="g5993">
+            <path id="path5995" class="st1" d="M163.5,470.6h-53.9"/>
+          </g>
+          <g id="g5997">
+            <path id="path5999" class="st1" d="M167.6,513.7h-26.9"/>
+          </g>
+          <g id="g6001">
+            <path id="path6003" class="st1" d="M167.6,427.5h-26.9"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

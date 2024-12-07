@@ -1,0 +1,2580 @@
+Uri: https://cdn.openviowebsites.com/source/fonts/x-twitter.eot?
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\fonts\x-twitter.eot
+Content Type: application/octet-stream
+
+Uri: https://cdn.openviowebsites.com/source/fonts/x-twitter.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\fonts\x-twitter.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdn.openviowebsites.com/source/fonts/x-twitter.woff
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\fonts\x-twitter.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.openviowebsites.com/source/loader-circle.gif
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\loader-circle.gif
+Content Type: image/gif
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/assets/marketting-hyderabad-agency.mp4
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\assets\marketting-hyderabad-agency.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/blog.min.css?v=131620240116573414173
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\blog.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/bootstrap.min.css?v=300420210904190731941
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/fontawesome.min.css?v=300420210904190731976
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/header.min.css?v=114320230743558390562
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\header.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/inner.min.css?v=195520241155214409459
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\inner.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/owl.carousel.min.css?v=300420210904190731987
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/css/style.min.css?v=260020231100159429605
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\css\style.min.css
+Content Type: text/css
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-brands-400.eot
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-brands-400.eot?
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-brands-400.woff
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-brands-400.woff2
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-light-300.eot
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-light-300.eot?
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-light-300.woff
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-light-300.woff2
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-regular-400.eot
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-regular-400.eot?
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-regular-400.woff
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-regular-400.woff2
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-solid-900.eot
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-solid-900.eot?
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-solid-900.woff
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/fonts/fa-solid-900.woff2
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/11-best-communication-tips-to-build-patient-loyalty-for-your-healthcare-business-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\11-best-communication-tips-to-build-patient-loyalty-for-your-healthcare-business-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/360-degree-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\360-degree-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/404-design.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\404-design.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/815c4ffe-4f12-4e53-8d9a-7122578b3fc1-who-whoose-healthcare-dms-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\815c4ffe-4f12-4e53-8d9a-7122578b3fc1-who-whoose-healthcare-dms-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/815c4ffe-4f12-4e53-8d9a-7122578b3fc1_who-whoose-healthcare-dms-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\815c4ffe-4f12-4e53-8d9a-7122578b3fc1_who-whoose-healthcare-dms-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/a-satisfied-and-loyal-patient-base.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\a-satisfied-and-loyal-patient-base.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/a-strong-internet-presence.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\a-strong-internet-presence.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/a-z-media.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\a-z-media.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/a-z-media.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\a-z-media.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/aagastya.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\aagastya.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/aagastya.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\aagastya.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/aaliya-shakeel.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\aaliya-shakeel.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/about-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\about-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/about-us-inner-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\about-us-inner-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/about-us-inner-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\about-us-inner-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/accredited-agency.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\accredited-agency.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/accredited-agency.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\accredited-agency.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/af2b96e1-2da5-4af8-8933-b9e3618952c2_who-whoose-healthcare-dms-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\af2b96e1-2da5-4af8-8933-b9e3618952c2_who-whoose-healthcare-dms-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ajay-new.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ajay-new.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ajay-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ajay-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ajay-prasad-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ajay-prasad-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ajay-prasad-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ajay-prasad-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/all-inclusive-plastic-surgery-marketing-services-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\all-inclusive-plastic-surgery-marketing-services-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/all-inclusive-plastic-surgery-marketing-services-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\all-inclusive-plastic-surgery-marketing-services-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ama-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ama-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ama-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ama-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ama.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ama.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ama.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ama.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/amarjeet-kr-sudhanshoo.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\amarjeet-kr-sudhanshoo.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/amarjeet-kr-sudhanshoo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\amarjeet-kr-sudhanshoo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/amish-hospital-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\amish-hospital-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/amish-hospital-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\amish-hospital-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/amit-new.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\amit-new.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/amit-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\amit-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/an-outstanding-online-reputation.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\an-outstanding-online-reputation.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/anand.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\anand.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/anand.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\anand.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/arrow-up-right-dots-sharp-solid.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\arrow-up-right-dots-sharp-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/as-lifeline-cancer-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\as-lifeline-cancer-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/aslife-log.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\aslife-log.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/aslife-log.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\aslife-log.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/attract-new-patients-new-ico.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\attract-new-patients-new-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/author-profile.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\author-profile.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/author-profile.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\author-profile.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/award-certificate.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\award-certificate.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/award-certificate.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\award-certificate.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/award-certificate.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\award-certificate.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/award-winning-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\award-winning-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/banner-vector.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\banner-vector.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/banner-vector.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\banner-vector.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/benefits-of-our-digital-marketing-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\benefits-of-our-digital-marketing-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/benefits-of-our-digital-marketing-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\benefits-of-our-digital-marketing-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/benefits-of-social-media-for-doctors-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\benefits-of-social-media-for-doctors-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/benefits-of-social-media-for-doctors-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\benefits-of-social-media-for-doctors-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/bing.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\bing.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/bing.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\bing.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/bjhospitals.portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\bjhospitals.portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/boost-visibility-credibility-ico.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\boost-visibility-credibility-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/brand-awareness-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\brand-awareness-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/brand-detail-exploration-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\brand-detail-exploration-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/brand-recognition-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\brand-recognition-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/build-stronger-relationships-ico.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\build-stronger-relationships-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/calls-gmp-profile-graph.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\calls-gmp-profile-graph.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/calls-gmp-profile-graph.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\calls-gmp-profile-graph.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cardiology-healthcaredms-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cardiology-healthcaredms-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cardiology-healthcaredms-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cardiology-healthcaredms-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cardiology-marketing-plan-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cardiology-marketing-plan-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cardiology-marketing-plan-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cardiology-marketing-plan-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cardiology-practice-marketing-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cardiology-practice-marketing-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study-hyderabad.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study-hyderabad.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study-hyderabad.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study-hyderabad.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study-netralayam-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study-netralayam-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study-section-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study-section-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study-section-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study-section-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study1-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study1-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study1-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study1-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study1-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study1-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study1-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study1-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study2-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study2-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study2-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study2-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study2-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study2-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study2-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study3-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study3-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study3-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study3-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study3-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study3-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/case-study3-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\case-study3-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/char-minar.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\char-minar.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/char-minar.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\char-minar.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/choose-dms-for-digital-marketing-services-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\choose-dms-for-digital-marketing-services-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/choose-dms-for-digital-marketing-services-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\choose-dms-for-digital-marketing-services-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/choose-healthcare-dentist-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\choose-healthcare-dentist-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/choose-healthcare-dentist-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\choose-healthcare-dentist-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/choose-healthcare-plastic-surgery-marketing-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\choose-healthcare-plastic-surgery-marketing-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/choose-healthcare-plastic-surgery-marketing-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\choose-healthcare-plastic-surgery-marketing-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/competition-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\competition-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/competitors-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\competitors-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/contact-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\contact-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/continuous-ongoing-optimization-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\continuous-ongoing-optimization-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/conversion-rate-optimization-tips-from-digital-marketing-leaders-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\conversion-rate-optimization-tips-from-digital-marketing-leaders-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/corporate-vision-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\corporate-vision-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cost-effective.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cost-effective.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cost-effective.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cost-effective.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cta-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cta-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/cta2-banner-bg.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\cta2-banner-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/curve-path.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\curve-path.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/customer-support-platform-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\customer-support-platform-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/customized-marketing-solutions-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\customized-marketing-solutions-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/data-driven-healthcare-social-media-marketing-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\data-driven-healthcare-social-media-marketing-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/data-driven-healthcare-social-media-marketing-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\data-driven-healthcare-social-media-marketing-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dedicated-account-manager-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dedicated-account-manager-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dedicated-account-manager-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dedicated-account-manager-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dedicated-account-managers-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dedicated-account-managers-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/deepak-kumar.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\deepak-kumar.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/deepak-kumar.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\deepak-kumar.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dental-clinics-dentists.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dental-clinics-dentists.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dental-clinics-dentists.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dental-clinics-dentists.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dermatology-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dermatology-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dermatology-thumb-1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dermatology-thumb-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dermatology-thumb-2.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dermatology-thumb-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dermatology-thumb-3.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dermatology-thumb-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dermatology-thumb-4.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dermatology-thumb-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/designrush-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\designrush-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/designrush-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\designrush-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-health-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-health-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-health-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-health-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-health.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-health.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-health.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-health.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-case-study.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-case-study.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-for-dentist-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-for-dentist-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-for-dentists-in-india-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-for-dentists-in-india-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-for-dentists-in-india-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-for-dentists-in-india-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-section1-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-section1-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/digital-marketing-section1-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\digital-marketing-section1-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/direction-requests-made-by-patients-graph.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\direction-requests-made-by-patients-graph.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/disrupt-logo.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\disrupt-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/disrupt-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\disrupt-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/diva-clinic.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\diva-clinic.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/diva-hair-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\diva-hair-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/divyesh-bukalsaria.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\divyesh-bukalsaria.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/diy-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\diy-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/diy-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\diy-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/diy.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\diy.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/diy.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\diy.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/doctor-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\doctor-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/doctors-physicians.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\doctors-physicians.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/doctors-physicians.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\doctors-physicians.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dr-allahbadia.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dr-allahbadia.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dr-allahbadia.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dr-allahbadia.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dr-arjun-somireddy-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dr-arjun-somireddy-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dr-arjun-somireddy-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dr-arjun-somireddy-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dr-lav.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dr-lav.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/dr-lav.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\dr-lav.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/drhemantsaluja-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\drhemantsaluja-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/drive-traffic.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\drive-traffic.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/drive-traffic.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\drive-traffic.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/drsoodaesthetics-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\drsoodaesthetics-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/effective-ad-copies.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\effective-ad-copies.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/effective-ad-copies.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\effective-ad-copies.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/effective-strategies-to-grow-your-cardiology-patient-base.png?v=252520240625483596793
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\effective-strategies-to-grow-your-cardiology-patient-base.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/email-marketing-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\email-marketing-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/empowering-every-click-to-enhance-the-care-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\empowering-every-click-to-enhance-the-care-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/enhance-patient-education-ico.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\enhance-patient-education-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ever-evolving-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ever-evolving-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/exceeding-your-expectations-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\exceeding-your-expectations-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/exceeding-your-expectations-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\exceeding-your-expectations-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/experience-serving-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\experience-serving-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/expertise-building-complex-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\expertise-building-complex-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/extensive-keyword-research.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\extensive-keyword-research.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/extensive-keyword-research.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\extensive-keyword-research.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/facebook.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\facebook.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/facebook.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\facebook.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/favicon.ico
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/fertility-clinic-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\fertility-clinic-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/final-thought-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\final-thought-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/final-thought-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\final-thought-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/flexibility.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\flexibility.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/flexibility.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\flexibility.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/flying-doctors-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\flying-doctors-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/flying-doctors-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\flying-doctors-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/flyingdoctorsindia-in-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\flyingdoctorsindia-in-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gastroenterology-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gastroenterology-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gastroenterology-thumb-1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gastroenterology-thumb-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gastroenterology-thumb-2.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gastroenterology-thumb-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gastroenterology-thumb-3.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gastroenterology-thumb-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gastroenterology-thumb-4.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gastroenterology-thumb-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gmr-logo.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gmr-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/godaddy.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\godaddy.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/godaddy.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\godaddy.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/google-shoping.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\google-shoping.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/google-shoping.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\google-shoping.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/google.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\google.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/google.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\google.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/goral-gandhi-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\goral-gandhi-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/goral-gandhi-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\goral-gandhi-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gpclinique-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gpclinique-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gpclinique-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gpclinique-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gut-clinic-logo-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gut-clinic-logo-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/gutclinic-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\gutclinic-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hair-transplant-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hair-transplant-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hair-transplant-thumb-1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hair-transplant-thumb-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hair-transplant-thumb-2.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hair-transplant-thumb-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hair-transplant-thumb-3.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hair-transplant-thumb-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hair-transplant-thumb-4.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hair-transplant-thumb-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hcdms-logo-wt.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hcdms-logo-wt.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hcdms-logo.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hcdms-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-digital-marketing-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-digital-marketing-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-digital-marketing-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-digital-marketing-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-dms-benefits-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-dms-benefits-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-dms-benefits-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-dms-benefits-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-dms-for-digital-marketing-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-dms-for-digital-marketing-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-dms-for-digital-marketing-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-dms-for-digital-marketing-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-dms-logo-square.png?v=084120240741352634796
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-dms-logo-square.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-for-orthopedic-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-for-orthopedic-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-for-orthopedic-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-for-orthopedic-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-marketing-plan-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-marketing-plan-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-reputation-management-platform-work-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-reputation-management-platform-work-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-reputation-management-platform-work-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-reputation-management-platform-work-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-seo-banner.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-seo-banner.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/healthcare-website-design-mistakes.jpg?v=194820230148186238377
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\healthcare-website-design-mistakes.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/help-turn-visitors-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\help-turn-visitors-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/help-you-expand-your-brand-reach-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\help-you-expand-your-brand-reach-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/helthcare-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\helthcare-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hire-healthcare-marketing.png?v=191420241114109413890
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hire-healthcare-marketing.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hostipal-banner-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hostipal-banner-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hostipal.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hostipal.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hostipal.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hostipal.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/how-to-drive-patient-acquisition-through-healthcare-reputation-management.png?v=162220241222531698974
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\how-to-drive-patient-acquisition-through-healthcare-reputation-management.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/how-to-optimize-google-ads-for-your-cosmetic-services-for-more-qualified-leads.png?v=280620230106028327826
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\how-to-optimize-google-ads-for-your-cosmetic-services-for-more-qualified-leads.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/how-to-train-your-team-to-provide-a-smooth-patient-experience.png?v=184420230644161480667
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\how-to-train-your-team-to-provide-a-smooth-patient-experience.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hyderabad-digital-marketting-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hyderabad-digital-marketting-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hyderabad-marketing-agency-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hyderabad-marketing-agency-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/hyderabad-marketing-agency-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\hyderabad-marketing-agency-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/importance-of-digital-marketing-for-doctors-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\importance-of-digital-marketing-for-doctors-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/importance-of-digital-marketing-for-doctors-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\importance-of-digital-marketing-for-doctors-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/improved-brand-presence-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\improved-brand-presence-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/improved-brand-presence-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\improved-brand-presence-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/increased-patient-inquiries-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\increased-patient-inquiries-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/increased-revenue-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\increased-revenue-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/increased-revenue-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\increased-revenue-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/industry-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\industry-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/industry-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\industry-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/industry.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\industry.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/industry.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\industry.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/initial-exploration-call-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\initial-exploration-call-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/instagram.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\instagram.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/instagram.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\instagram.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/internet-presence.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\internet-presence.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ishita-new1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ishita-new1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ivf-fertility-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ivf-fertility-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ivf-practice-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ivf-practice-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ivf-practice-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ivf-practice-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/keyword-research-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\keyword-research-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/kirti-bala.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\kirti-bala.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/kirti-bala.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\kirti-bala.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/krishna-medical-logo-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\krishna-medical-logo-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/krishna-medical-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\krishna-medical-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/krishna-medical-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\krishna-medical-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/krithika-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\krithika-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/landing-page-optimization.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\landing-page-optimization.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/landing-page-optimization.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\landing-page-optimization.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/latest-technology.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\latest-technology.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/launch-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\launch-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/linkedin.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\linkedin.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/linkedin.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\linkedin.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/madhavi-netralaya-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\madhavi-netralaya-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/madhavi-netralaya-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\madhavi-netralaya-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marketing-automation-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\marketing-automation-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marketing-automation-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\marketing-automation-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marketing-roi-growth-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\marketing-roi-growth-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marwellus-clinic.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\marwellus-clinic.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marwellus-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\marwellus-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/measurable-expenditure-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\measurable-expenditure-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/measurable-expenditure-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\measurable-expenditure-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/measurable-success-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\measurable-success-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/medical-webiste-design-banner-new.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\medical-webiste-design-banner-new.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/medical-webiste-design-banner.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\medical-webiste-design-banner.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/meeraz-clinic.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\meeraz-clinic.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/meeraz-clinic.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\meeraz-clinic.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/more-traffic-website-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\more-traffic-website-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nanditapalshetkar-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nanditapalshetkar-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nanditapalshetkar-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nanditapalshetkar-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nanditapalshetkar-website-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nanditapalshetkar-website-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/need-healthcare-reputation-management-services-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\need-healthcare-reputation-management-services-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/need-healthcare-reputation-management-services-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\need-healthcare-reputation-management-services-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nephrocare-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nephrocare-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nephrocare-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nephrocare-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/netralayam-dashboard-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\netralayam-dashboard-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/netralayam-dashboard-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\netralayam-dashboard-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/netralayam-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\netralayam-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/netralayam-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\netralayam-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/netralayam-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\netralayam-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/netralayam-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\netralayam-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/new-patients-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\new-patients-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nexen-healthcare.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nexen-healthcare.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/nexen-healthcare.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\nexen-healthcare.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/north-atlanta-website-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\north-atlanta-website-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/off-page-seo-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\off-page-seo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/omni-channel-approach-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\omni-channel-approach-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/on-page-seo-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\on-page-seo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/online-advertising-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\online-advertising-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/online-reputation-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\online-reputation-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/online-reputation-management-case-study.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\online-reputation-management-case-study.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/online-reputation-management-new.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\online-reputation-management-new.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/online-reputation-management-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\online-reputation-management-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/online-reputation.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\online-reputation.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ophthalmology-healthcaredms-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ophthalmology-healthcaredms-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ophthalmology-healthcaredms-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ophthalmology-healthcaredms-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ophthalmology-hospital-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ophthalmology-hospital-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ophthalmology-hospital-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ophthalmology-hospital-thumb.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ophthalmology-hospital-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ophthalmology-hospital-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/orthopedic-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\orthopedic-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/our-services-dentist-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\our-services-dentist-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/our-services-dentist-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\our-services-dentist-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/paid-advertistment-healthcare.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\paid-advertistment-healthcare.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/paid-advertistment-healthcare.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\paid-advertistment-healthcare.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/paid-search-advertising-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\paid-search-advertising-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/paid-search-advertising-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\paid-search-advertising-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/parency-ivf-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\parency-ivf-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/parency-ivf.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\parency-ivf.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-appointment-requests-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-appointment-requests-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-base.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-base.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-centric-website-new.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-centric-website-new.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-centric-website-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-centric-website-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-experience.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-experience.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-inquiries-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-inquiries-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/patient-inquiries-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\patient-inquiries-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/personalized-healthcaredms-thumb1.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\personalized-healthcaredms-thumb1.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/personalized-healthcaredms-thumb1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\personalized-healthcaredms-thumb1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/phe-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\phe-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/phe-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\phe-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/pillar-healthcare-bg.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\pillar-healthcare-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/pillar-healthcare-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\pillar-healthcare-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/plastic-surgery-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\plastic-surgery-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/popup-blog-bg.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\popup-blog-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ppc-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ppc-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ppc-strategies.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ppc-strategies.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ppc-strategies.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ppc-strategies.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/practice-reputation-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\practice-reputation-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/practice-reputation-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\practice-reputation-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/prerana-hospital-p-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\prerana-hospital-p-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/prerana-hospital.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\prerana-hospital.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/press-centre-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\press-centre-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/privacy-policy-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\privacy-policy-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/priyadarsini-hospital.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\priyadarsini-hospital.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/promising-customized-marketing-strategies-crafted-to-best-suit-the-clients-needs-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\promising-customized-marketing-strategies-crafted-to-best-suit-the-clients-needs-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/quick-enquiry-modal.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\quick-enquiry-modal.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rahul-anand.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rahul-anand.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rahul-anand.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rahul-anand.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rahul-kumar.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rahul-kumar.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rakesh-nandan.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rakesh-nandan.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rakesh-nandan.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rakesh-nandan.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ramesh-kumar.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ramesh-kumar.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ramesh-kumar.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ramesh-kumar.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ranking-google-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ranking-google-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ratnesh-kr-sinha.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ratnesh-kr-sinha.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ratnesh-kr-sinha.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ratnesh-kr-sinha.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reputation-management-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\reputation-management-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reputation-management-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\reputation-management-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reputation-management-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\reputation-management-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reputation-management-solution-icon1.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\reputation-management-solution-icon1.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reputation-management-solution-icon1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\reputation-management-solution-icon1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/result-driven-orthopedic-practices-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\result-driven-orthopedic-practices-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/result-driven-orthopedic-practices-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\result-driven-orthopedic-practices-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reviews-reputation-management-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\reviews-reputation-management-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ritu-kumari.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ritu-kumari.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/ritu-kumari.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\ritu-kumari.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/roshini-sinha.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\roshini-sinha.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rotunda-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rotunda-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rotunda-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rotunda-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/rotunda-website-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\rotunda-website-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sanchita-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sanchita-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sanggehta-new.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sanggehta-new.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sanggehta-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sanggehta-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/saurav-kumar.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\saurav-kumar.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/saurav-kumar.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\saurav-kumar.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/search-engine-optimization-case-study.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\search-engine-optimization-case-study.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/search-engine-optimization-new.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\search-engine-optimization-new.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/search-engine-optimization-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\search-engine-optimization-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seb-lab.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seb-lab.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seo-content-creation-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seo-content-creation-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seo-content-writing-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seo-content-writing-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seo-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seo-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seo-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seo-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seo.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seo.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/seo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\seo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/shankar-hospital-logo-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\shankar-hospital-logo-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/shankar-hospital-portfolio.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\shankar-hospital-portfolio.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/shankarhospital.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\shankarhospital.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/simplified-appointment-bookings-ico.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\simplified-appointment-bookings-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sitemap-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sitemap-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sneha-sood-logo-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sneha-sood-logo-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/social-media-brand-management-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\social-media-brand-management-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/social-media-marketing-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\social-media-marketing-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/social-media-marketing-thumb-new.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\social-media-marketing-thumb-new.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/social-media-marketing-thumb-new.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\social-media-marketing-thumb-new.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/social-media-video-marketing-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\social-media-video-marketing-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/social-media-video-marketing-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\social-media-video-marketing-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/solidify-the-patient-experience.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\solidify-the-patient-experience.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sonu-sharma.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sonu-sharma.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sonu-sharma.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sonu-sharma.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/soodesthetics-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\soodesthetics-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/soodesthetics-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\soodesthetics-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/sriya-madhuri.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\sriya-madhuri.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/stork-hospital.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\stork-hospital.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/tarannum-fatma.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\tarannum-fatma.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/tarannum-fatma.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\tarannum-fatma.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/teams-condition-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\teams-condition-banner.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/technical-seo-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\technical-seo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/testimonial-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\testimonial-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/thank-you-banner.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\thank-you-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/top-cardiologist-in-navi-mumbai-maharashtra.png?v=083020240730209724988
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\top-cardiologist-in-navi-mumbai-maharashtra.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/top-gynaecologist-in-lucknow-uttar-pradesh.png?v=165020240950597236141
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\top-gynaecologist-in-lucknow-uttar-pradesh.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/transparent-reports.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\transparent-reports.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/transparent-reports.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\transparent-reports.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/twitter.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\twitter.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/twitter.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\twitter.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/up-to-date-technologies-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\up-to-date-technologies-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/urology-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\urology-bg.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/urology-thumb-1.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\urology-thumb-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/urology-thumb-2.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\urology-thumb-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/urology-thumb-3.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\urology-thumb-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/urology-thumb-4.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\urology-thumb-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vardhan-logo.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vardhan-logo.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vardhan-logo.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vardhan-logo.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vardhanayurveda-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vardhanayurveda-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/video-poster.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\video-poster.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vipul.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vipul.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vipul.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vipul.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vishal-kumar-dp.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vishal-kumar-dp.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/vishal-kumar-dp.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\vishal-kumar-dp.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/website-design-and-development-case-study.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\website-design-and-development-case-study.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/website-design-and-development-icon.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\website-design-and-development-icon.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/website-design-and-development-icon.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\website-design-and-development-icon.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/why-choose-social-media-services-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\why-choose-social-media-services-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/why-choose-social-media-services-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\why-choose-social-media-services-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/why-do-social-media-work-thumb.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\why-do-social-media-work-thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/why-do-social-media-work-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\why-do-social-media-work-thumb.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/why-trust-our-word.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\why-trust-our-word.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/why-you-need-a-hospital-marketing-agency-for-effective-digital-marketing.png?v=023120241031116165987
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\why-you-need-a-hospital-marketing-agency-for-effective-digital-marketing.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/years-of-expertise-icon.svg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\years-of-expertise-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/youtube.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\youtube.png
+Content Type: image/png
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/youtube.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\images\youtube.webp
+Content Type: image/webp
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/bootstrap.min.js?v=300420210904190732054
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/common.js?v=113720240837175572666
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\common.js
+Content Type: application/javascript
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/contact-us-footer-form-validation.js?v=173720240637133670379
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\contact-us-footer-form-validation.js
+Content Type: application/javascript
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/jquery-2.2.1.min.js?v=300420210904190732043
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\jquery-2.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/owl.carousel.min.js?v=300420210904190732064
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/recent-blog.js?v=140020220800193970718
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\recent-blog.js
+Content Type: application/javascript
+
+Uri: https://cdn.openviowebsites.com/source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/webp.js?v=300420210904190732074
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\source\sites\cb9be165-52e4-4095-805e-bd230f69c5bc\js\webp.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\ajax\libs\jquery-validate\1.19.3\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\ajax\libs\jquery-validation-unobtrusive\3.2.12\jquery.validate.unobtrusive.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\ajax\libs\jquery.maskedinput\1.4.1\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_AkA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_AkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zAkA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\index-1.htm
+Content Type: 
+
+Uri: https://www.healthcaredms.com/
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\index.htm
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/about-us
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/about-us/our-team
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\about-us\our-team.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/actionable-social-media-marketing-strategies
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\actionable-social-media-marketing-strategies.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/author/ajay-prasad
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\author\ajay-prasad.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/author/healthcare-dms
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\author\healthcare-dms.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/author/sangeeta-kumar
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\author\sangeeta-kumar.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/digital-marketing-doctors-india
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\digital-marketing-doctors-india.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/effective-strategies-to-grow-your-cardiology-patient-base
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\effective-strategies-to-grow-your-cardiology-patient-base.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/expert-advice-to-train-your-team-in-exceptional-patient-experiences
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\expert-advice-to-train-your-team-in-exceptional-patient-experiences.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/google-ads-optimization-tips-for-cosmetic-services
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\google-ads-optimization-tips-for-cosmetic-services.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/healthcare-website-design-mistakes-to-avoid
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\healthcare-website-design-mistakes-to-avoid.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/hire-healthcare-marketing-agency
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\hire-healthcare-marketing-agency.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/hospital-marketing-ideas-in-india
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\hospital-marketing-ideas-in-india.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/how-to-attract-patients-to-your-clinic-in-2022
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\how-to-attract-patients-to-your-clinic-in-2022.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/how-to-drive-patient-acquisition-through-healthcare-reputation-management
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\how-to-drive-patient-acquisition-through-healthcare-reputation-management.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/importance-benefits-of-hospital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\importance-benefits-of-hospital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/page/2
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\page\2.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/seo-for-hospitals
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\seo-for-hospitals.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/attracting-new-patients
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\attracting-new-patients.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/benefits-to-the-hospital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\benefits-to-the-hospital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/cardiologist
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\cardiologist.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/cardiology-digital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\cardiology-digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/cosmetic-service-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\cosmetic-service-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/digital-marketing-for-cardiologists
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\digital-marketing-for-cardiologists.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/expert-opinion
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\expert-opinion.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/google-ads-expert
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\google-ads-expert.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/google-reviews
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\google-reviews.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/gynaecologist
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\gynaecologist.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/healthcare-reputation-management
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\healthcare-reputation-management.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/hospital-digital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\hospital-digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/hospital-marketing-ideas-tips
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\hospital-marketing-ideas-tips.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/hospital-marketing-importance
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\hospital-marketing-importance.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/hospital-marketing-strategies
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\hospital-marketing-strategies.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/importance-of-website-for-healthcare
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\importance-of-website-for-healthcare.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/marketing-for-hospital-services
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\marketing-for-hospital-services.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/paid-ads-optimization
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\paid-ads-optimization.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/patient-acquisition
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\patient-acquisition.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/patient-experience
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\patient-experience.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/patient-retention
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\patient-retention.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/patient-sentiments
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\patient-sentiments.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/tag/social-media-actionable-tips
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\tag\social-media-actionable-tips.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/top-cardiologist-in-navi-mumbai-maharashtra
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\top-cardiologist-in-navi-mumbai-maharashtra.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/top-gynaecologist-in-lucknow-uttar-pradesh
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\top-gynaecologist-in-lucknow-uttar-pradesh.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/understanding-patient-satisfaction
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\understanding-patient-satisfaction.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/why-you-need-a-hospital-marketing-agency-for-effective-digital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\why-you-need-a-hospital-marketing-agency-for-effective-digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/blog/why-your-healthcare-business-needs-a-website
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\blog\why-your-healthcare-business-needs-a-website.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/cardiology-practice-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\cardiology-practice-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/case-studies
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\case-studies.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/chiropractic
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\chiropractic.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/contact-us
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/dermatology
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\dermatology.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/digital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/digital-marketing-for-dentist
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\digital-marketing-for-dentist.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/doctors
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\doctors.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/expert-gastroenterology-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\expert-gastroenterology-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/expert-urology-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\expert-urology-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/hair-transplant
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\hair-transplant.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/healthcare-digital-marketing-agency-in-hyderabad
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\healthcare-digital-marketing-agency-in-hyderabad.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/healthcare-ppc
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\healthcare-ppc.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/healthcare-seo-agency
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\healthcare-seo-agency.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/hospital-marketing-agency
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\hospital-marketing-agency.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/images/404-object.png?v=yNbeDRiZcig_LNzScbyUxlp8aMC-kF5wE5UT4lRIac4
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\images\404-object.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/images/404.png?v=hb-zz2yc5fgEEIggFtGMc03ewvqITpC91VoPjvd5K98
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\images\404.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/images/tinymce/19206Target-right-audience.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\images\tinymce\19206Target-right-audience.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/images/tinymce/Answer-Questions.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\images\tinymce\Answer-Questions.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/images/tinymce/Number-of-internet-users-in-india.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\images\tinymce\Number-of-internet-users-in-india.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/images/tinymce/provide-info-to-the-patients.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\images\tinymce\provide-info-to-the-patients.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/ivf-digital-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\ivf-digital-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/lib/bootstrap/dist/css/bootstrap.min.css
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\lib\bootstrap\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.healthcaredms.com/medical-website-design-development
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\medical-website-design-development.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/netralayam-achieves-optimum-patient-acquisition-with-healthcaredms
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\netralayam-achieves-optimum-patient-acquisition-with-healthcaredms.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/not-found
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\not-found.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/ophthalmology-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\ophthalmology-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/orthopedic-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\orthopedic-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/plastic-surgery-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\plastic-surgery-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/press-centre
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\press-centre.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/privacy-policy
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/reputation-management
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\reputation-management.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/sitemap
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\sitemap.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/19d58a01-6988-4a73-85a7-8c8e5ad0d57c_Reviews-2-.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\19d58a01-6988-4a73-85a7-8c8e5ad0d57c_Reviews-2-.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/2c2cfa0a-17f0-41eb-8e8f-1725b7bb756a_Reviews-2-.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\2c2cfa0a-17f0-41eb-8e8f-1725b7bb756a_Reviews-2-.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/34aef5f0-04f9-4dfd-8e6f-890a9ece73d8_analytics.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\34aef5f0-04f9-4dfd-8e6f-890a9ece73d8_analytics.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/6-Social-Media-Strategies-for-Healthcare-Practices.png?v=282820221128078587089
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\6-Social-Media-Strategies-for-Healthcare-Practices.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/71fb7650-e82b-42c2-87ad-f1c6b7afe070_analytics-data.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\71fb7650-e82b-42c2-87ad-f1c6b7afe070_analytics-data.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/793de6f8-b2ef-42b2-9665-061d3f4d0c2f_Mobile-Responsiveness-Issue.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\793de6f8-b2ef-42b2-9665-061d3f4d0c2f_Mobile-Responsiveness-Issue.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/7bfc0a8b-7e20-4cf7-8a8e-150fa9240f62_analytics.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\7bfc0a8b-7e20-4cf7-8a8e-150fa9240f62_analytics.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/8d7cd9a9-3a0f-40bf-ace1-4035cde236ce_Review-Examples.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\8d7cd9a9-3a0f-40bf-ace1-4035cde236ce_Review-Examples.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Analytics-data.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Analytics-data.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Award-Linkedin.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Award-Linkedin.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/b52ca0ca-29f1-43ce-af42-8d6efa8200da_Keywords.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\b52ca0ca-29f1-43ce-af42-8d6efa8200da_Keywords.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/blobid0.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\blobid0.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Blog-page.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Blog-page.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Component-3.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Component-3.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Component-4.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Component-4.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Digital-marketing-for-doctors-in-india.jpg?v=152220220722310377102
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Digital-marketing-for-doctors-in-india.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Domain-Name-Mistakes.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Domain-Name-Mistakes.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-archana-kanodia.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-archana-kanodia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-chandrawati-v1.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-chandrawati-v1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-keshav-kale.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-keshav-kale.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-kumar-rajeev.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-kumar-rajeev.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-mahesh-ghogare.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-mahesh-ghogare.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-poonam-mishra.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-poonam-mishra.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-pritish-bagul.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-pritish-bagul.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-sanjeev-kumar-kalkekar.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-sanjeev-kumar-kalkekar.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/dr-sonia-luthra.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\dr-sonia-luthra.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/eye-checkup-blog-sticky-thumb.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\eye-checkup-blog-sticky-thumb.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/eye-checkup-blog-sticky-thumb.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\eye-checkup-blog-sticky-thumb.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Facebook-comments.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Facebook-comments.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/favicon.ico
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Get-My-Free-Analysis.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Get-My-Free-Analysis.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Google-local-map.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Google-local-map.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Healthcare-marketing.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Healthcare-marketing.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Hospital-Marketing-Strategies.png?v=201820230618145684697
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Hospital-Marketing-Strategies.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/How-to-attract-patients-to-your-clinic.png?v=251320230913125336998
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\How-to-attract-patients-to-your-clinic.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Importance-of-hospital-marketing.jpg?v=045020220950143243834
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Importance-of-hospital-marketing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Importance-of-website-for-healthcare.png?v=202420230924449635032
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Importance-of-website-for-healthcare.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Instant-Analysis-Tool-Snapshot.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Instant-Analysis-Tool-Snapshot.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Loading-Speed-Issues.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Loading-Speed-Issues.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Local-Citation-Accuracy.png
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Local-Citation-Accuracy.png
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/NAWC-GMB.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\NAWC-GMB.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Netralayam.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Netralayam.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/organic-traffic.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\organic-traffic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/p19-SOI-Graph01.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\p19-SOI-Graph01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Paid-ads-campaign.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Paid-ads-campaign.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Patient-satisfaction.jpg?v=225920220959592164168
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Patient-satisfaction.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Patient-stories.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Patient-stories.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/quora-data.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\quora-data.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Review-Examples.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Review-Examples.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/sangeeta-kumar.jpg?v=152320221023591320654
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\sangeeta-kumar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/SEO-for-hospital.jpg?v=070420221104083655312
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\SEO-for-hospital.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Smile-Arizona.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Smile-Arizona.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Tap-to-Call.jpg
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Tap-to-Call.jpg
+Content Type: image/jpeg
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/With-website.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\With-website.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/Sites/CB9BE165-52E4-4095-805E-BD230F69C5BC/images/Without-website.PNG
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Sites\CB9BE165-52E4-4095-805E-BD230F69C5BC\images\Without-website.PNG
+Content Type: image/png
+
+Uri: https://www.healthcaredms.com/social-media-marketing
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\social-media-marketing.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/terms-and-condition
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\terms-and-condition.html
+Content Type: text/html
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/about-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\about-banner.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/contact-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\contact-banner.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/digital-marketing-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\digital-marketing-banner.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/ppc-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\ppc-banner.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/reputation-management-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\reputation-management-banner.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/social-media-marketing-banner.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\social-media-marketing-banner.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/themes/healthcare-dms/images/testimonial-bg.webp
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\themes\healthcare-dms\images\testimonial-bg.webp
+Content Type: image/webp
+
+Uri: https://www.healthcaredms.com/Upload/ProfilePicture/Ajay-Prasad-founder-of-Healthcare-DMS.jpg?v=224220231142337534414
+File Name: C:\VERSAI TECHNOLOGY\Tonic_Mantra\www.healthcaredms.com\Upload\ProfilePicture\Ajay-Prasad-founder-of-Healthcare-DMS.jpg
+Content Type: image/jpeg
+
