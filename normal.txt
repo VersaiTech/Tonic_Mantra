@@ -1,14 +1,16 @@
-<!-- Header -->
-     <div id="header"></div>
-     <!-- Header End  -->
+<!-- Footer -->
+     <div id="footer"></div>
+     <!-- Footer End  -->
 
+     
+<div class="footer-first">
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    fetch("./components/header.html")
+    fetch("./components/footer.html")
       .then((response) => response.text())
       .then((data) => {
-        document.getElementById("header").innerHTML = data;
+        document.getElementById("footer").innerHTML = data;
       })
       .catch((error) => console.error("Error loading header:", error));
   });
