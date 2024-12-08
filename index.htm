@@ -85,6 +85,63 @@ Medical marketing company">
          display: none;
          
       }
+      /* Section Background */
+.feature-divider.new-case-study-design {
+   background-color: #0d47a1; /* Deep blue */
+   padding: 60px 0;
+   color: #ffffff;
+}
+
+/* Section Heading */
+.footfall-heading {
+   color: #ffffff;
+   font-size: 32px;
+   font-weight: bold;
+   margin-bottom: 10px;
+   text-transform: uppercase;
+}
+
+.footfall-subheading {
+   color: #d1e8ff; /* Light blue text */
+   font-size: 18px;
+   margin-bottom: 40px;
+}
+
+/* Cards Styling */
+.footfall-card {
+   background: #1e88e5; /* Lighter blue for contrast */
+   color: #ffffff;
+   border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle border */
+   border-radius: 8px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.footfall-card:hover {
+   transform: translateY(-5px);
+   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.footfall-card-title {
+   font-size: 20px;
+   font-weight: 600;
+   margin-bottom: 10px;
+   color: #ffffff;
+}
+
+.footfall-card-text {
+   font-size: 16px;
+   color: #e3f2fd; /* Very light blue for readability */
+   line-height: 1.5;
+}
+
+/* Responsive Padding */
+@media (max-width: 768px) {
+   .footfall-card {
+      padding: 20px;
+   }
+}
+
     
 
    </style>
@@ -608,8 +665,8 @@ Medical marketing company">
                                  <p class="title">Enhance Efficiency & Engagement</p>
                                  <div class="dr-picture">
                                     <picture>
-                                       <source srcset="images/marketing-automation.webp" type="image/webp">
-                                       <img src="images/marketing-automation.jpg" alt="Marketing Automation Service" class="img-fluid">
+                                       <source srcset="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marketing-automation-icon.webp" type="image/webp">
+                                       <img src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/marketing-automation-icon.png" alt="Marketing Automation Service" class="img-fluid">
                                     </picture>
                                  </div>
                               </div>
@@ -625,8 +682,8 @@ Medical marketing company">
                                  <p class="title">Increase Visibility & Build Trust</p>
                                  <div class="dr-picture">
                                     <picture>
-                                       <source srcset="images/social-media-marketing.webp" type="image/webp">
-                                       <img src="images/social-media-marketing.jpg" alt="Social Media Marketing Service" class="img-fluid">
+                                       <source srcset="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/drive-traffic.png" type="image/webp">
+                                       <img src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/drive-traffic.png" alt="Social Media Marketing Service" class="img-fluid">
                                     </picture>
                                  </div>
                               </div>
@@ -642,8 +699,8 @@ Medical marketing company">
                                  <p class="title">Nurture Relationships & Drive Conversions</p>
                                  <div class="dr-picture">
                                     <picture>
-                                       <source srcset="images/email-campaigns.webp" type="image/webp">
-                                       <img src="images/email-campaigns.jpg" alt="Email Campaigns Service" class="img-fluid">
+                                       <source srcset="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/effective-ad-copies.webp" type="image/webp">
+                                       <img src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/effective-ad-copies.png" alt="Email Campaigns Service" class="img-fluid">
                                     </picture>
                                  </div>
                               </div>
@@ -679,10 +736,12 @@ Medical marketing company">
                   <div class="img-block1">
                      <picture>
                         <source
-                           srcset="images/ivf-marketing-thumb.webp"
-                           type="image/webp">
+                        srcset="
+                        source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/personalized-healthcaredms-thumb1.webp
+                      "
+                      type="image/webp" />
                         <img
-                           src="images/ivf-marketing-thumb.png"
+                        src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/personalized-healthcaredms-thumb1.png"
                            alt="Custom Digital Marketing Solutions for IVF Clinics"
                            class="img-fluid">
                      </picture>
@@ -728,7 +787,7 @@ Medical marketing company">
                   <div class="col-md-3 col-6">
                      <div class="each-pillar-card">
                         <div class="each-pillar-img">
-                           <img src="images/market-research.svg" alt="Market Research & Analysis" class="img-fluid">
+                           <img src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/a-strong-internet-presence.svg" alt="Market Research & Analysis" class="img-fluid">
                         </div>
                         <h3>Market Research & Analysis</h3>
                         <p>
@@ -741,7 +800,7 @@ Medical marketing company">
                   <div class="col-md-3 col-6">
                      <div class="each-pillar-card">
                         <div class="each-pillar-img">
-                           <img src="images/strategic-development.svg" alt="Strategic Development" class="img-fluid">
+                           <img src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/an-outstanding-online-reputation.svg" alt="Strategic Development" class="img-fluid">
                         </div>
                         <h3>Strategic Development & Execution</h3>
                         <p>
@@ -754,8 +813,11 @@ Medical marketing company">
                   <div class="col-md-3 col-6">
                      <div class="each-pillar-card">
                         <div class="each-pillar-img">
-                           <img src="images/sales-team.svg" alt="Sales Team Development" class="img-fluid">
-                        </div>
+                           <img
+                      src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/solidify-the-patient-experience.svg"
+                      alt="Solidify the Patient Experience"
+                      class="img-fluid"
+                    /></div>
                         <h3>Sales Team Development</h3>
                         <p>
                            Build and train an effective sales team that drives patient inquiries and helps convert leads into loyal patients.
@@ -767,7 +829,11 @@ Medical marketing company">
                   <div class="col-md-3 col-6">
                      <div class="each-pillar-card">
                         <div class="each-pillar-img">
-                           <img src="images/crm-management.svg" alt="Customer Relationship Management" class="img-fluid">
+                           <img
+                           src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/a-satisfied-and-loyal-patient-base.svg"
+                           alt="A Satisfied and loyal patient base"
+                           class="img-fluid"
+                         />
                         </div>
                         <h3>Customer Relationship Management (CRM)</h3>
                         <p>
@@ -793,9 +859,9 @@ Medical marketing company">
                   <div class="img-sm">
                      <picture>
                         <source
-                           srcset="images/tonic-mantra-about-us.webp"
+                           srcset="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhlYWx0aGNhcmUlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8fDB8fHww"
                            type="image/webp">
-                        <img src="images/tonic-mantra-about-us.jpg" alt="About Tonic Mantra" class="img-fluid">
+                        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhlYWx0aGNhcmUlMjBkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8fDB8fHww" alt="About Tonic Mantra" class="img-fluid">
                      </picture>
                   </div>
                </div>
@@ -827,7 +893,7 @@ Medical marketing company">
                   <div class="col-lg-4 col-md-6">
                      <div class="each-service-wrapper">
                         <div class="each-service-content">
-                           <img src="images/personalized-care.svg" alt="Personalized Care" class="img-fluid">
+                           <img  src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/up-to-date-technologies-icon.svg" alt="Personalized Care" class="img-fluid">
                            <h3>Personalized Care</h3>
                            <p>
                               We tailor our services to meet your unique needs and preferences, ensuring strategies that align with your goals.
@@ -840,7 +906,7 @@ Medical marketing company">
                   <div class="col-lg-4 col-md-6">
                      <div class="each-service-wrapper">
                         <div class="each-service-content">
-                           <img src="images/comfort-safety.svg" alt="Comfort and Safety" class="img-fluid">
+                           <img  src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/reputation-management-solution-icon1.png" alt="Comfort and Safety" class="img-fluid">
                            <h3>Comfort and Safety</h3>
                            <p>
                               Our patient-centric approach ensures trust, safety, and comfort at every step of your journey with us.
@@ -853,7 +919,7 @@ Medical marketing company">
                   <div class="col-lg-4 col-md-6">
                      <div class="each-service-wrapper">
                         <div class="each-service-content">
-                           <img src="images/comprehensive-services.svg" alt="Comprehensive Services" class="img-fluid">
+                           <img src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/images/expertise-building-complex-icon.svg" alt="Comprehensive Services" class="img-fluid">
                            <h3>Comprehensive Services</h3>
                            <p>
                               From marketing automation to paid campaigns, we offer full-spectrum solutions for your practice's growth.
@@ -869,52 +935,54 @@ Medical marketing company">
    <!-- Footfall -->
 
    <!-- Footfall Section -->
+<!-- Footfall Section -->
 <section>
    <div class="feature-divider new-case-study-design">
       <div class="container">
          <!-- Section Heading -->
          <div class="heading-center mb-4">
-            <h2>How to Increase Footfall?</h2>
-            <p>At Tonic Mantra, we implement proven strategies to help your IVF and fertility practice thrive:</p>
+            <h2 class="footfall-heading">How to Increase Footfall?</h2>
+            <p class="footfall-subheading">At Tonic Mantra, we implement proven strategies to help your IVF and fertility practice thrive:</p>
          </div>
 
          <!-- Cards Wrapper -->
          <div class="familiar-wrapper row justify-content-center">
             <!-- Each Card -->
             <div class="col-md-4 mb-4">
-               <div class="each-familiar-wrap text-center p-3">
-                  <h4>Develop Marketing Channels</h4>
-                  <p>Leverage a multidisciplinary approach to reach potential patients effectively.</p>
+               <div class="footfall-card text-center p-4">
+                  <h4 class="footfall-card-title">Develop Marketing Channels</h4>
+                  <p class="footfall-card-text">Leverage a multidisciplinary approach to reach potential patients effectively.</p>
                </div>
             </div>
             <div class="col-md-4 mb-4">
-               <div class="each-familiar-wrap text-center p-3">
-                  <h4>Improved Brand Presence</h4>
-                  <p>Establish a strong identity that resonates with your audience.</p>
+               <div class="footfall-card text-center p-4">
+                  <h4 class="footfall-card-title">Improved Brand Presence</h4>
+                  <p class="footfall-card-text">Establish a strong identity that resonates with your audience.</p>
                </div>
             </div>
             <div class="col-md-4 mb-4">
-               <div class="each-familiar-wrap text-center p-3">
-                  <h4>Enhanced Practice Reputation</h4>
-                  <p>Build trust and credibility to stand out in the competitive fertility market.</p>
+               <div class="footfall-card text-center p-4">
+                  <h4 class="footfall-card-title">Enhanced Practice Reputation</h4>
+                  <p class="footfall-card-text">Build trust and credibility to stand out in the competitive fertility market.</p>
                </div>
             </div>
             <div class="col-md-4 mb-4">
-               <div class="each-familiar-wrap text-center p-3">
-                  <h4>Develop New Patient Inquiries</h4>
-                  <p>Drive inquiries through targeted campaigns and streamlined communication.</p>
+               <div class="footfall-card text-center p-4">
+                  <h4 class="footfall-card-title">Develop New Patient Inquiries</h4>
+                  <p class="footfall-card-text">Drive inquiries through targeted campaigns and streamlined communication.</p>
                </div>
             </div>
             <div class="col-md-4 mb-4">
-               <div class="each-familiar-wrap text-center p-3">
-                  <h4>Improve Operational Excellence</h4>
-                  <p>Optimize workflows for seamless patient experience and operational efficiency.</p>
+               <div class="footfall-card text-center p-4">
+                  <h4 class="footfall-card-title">Improve Operational Excellence</h4>
+                  <p class="footfall-card-text">Optimize workflows for seamless patient experience and operational efficiency.</p>
                </div>
             </div>
          </div>
       </div>
    </div>
 </section>
+
 
    <!-- Services We Offer  -->
    <section>
