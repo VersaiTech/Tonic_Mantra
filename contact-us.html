@@ -343,84 +343,89 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                      <div class="col-lg-6 col-md-12">
                         <div class="contact-form">
                            <h3 class="heading-underline">Let's Discuss Your Growth Strategy!</h3>
-                           <form id="contact-us-form" name="contact-us-form" data-form-id="68D42770-A651-4CBD-BE06-85C064990DA7" novalidate="novalidate" enctype="multipart/form-data" method="post">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="form-group">
-                <input type="text" class="form-control animated-input" id="Name" name="Name">
-                <label class="">Name*</label>
-          	<div class="NameError"></div>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="form-group">
-                <input type="text" class="form-control animated-input" id="Designation" name="Designation">
-                <label>Designation</label>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="form-group">
-                <input type="text" class="form-control animated-input" id="Email" name="Email">
-                <label>Email*</label>
-          	<div class="EmailError"></div>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="form-group">
-                <input type="text" class="form-control animated-input" id="Phone" name="Phone">
-                <label>Phone*</label>
-          	<div class="PhoneError"></div>
-            </div>
-        </div>
-        <div class="col-md-6">
-         <div class="form-group">
-            <select class="form-control animated-input" id="selectPracticeType" name="Practice Type">
-                <option>&nbsp;</option>
-                <option>IVF Centers</option>
-                <option>Fertility Clinics</option>
-                <option>Gynecologists</option>
-                <option>Surrogacy Centers</option>
-            </select>
-            <label>Practice Type</label>
-        </div>
-        </div>
-        <div class="col-md-6">
-            <div class="form-group">
-                <input type="text" class="form-control animated-input" id="PracticeName" name="Practice Name">
-                <label>Practice Name</label>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="form-group">
-                <select class="form-control animated-input" id="selectEmployeeSize" name="Employee Size">
-                    <option>&nbsp;
-                    </option>
-                    <option>5-10</option>
-                    <option>10-25</option>
-                    <option>25-50</option>
-                    <option>50+</option>
-                </select>
-                <label>Employee Size</label>
-            </div>
-        </div>
-        <div class="col-md-12">
-            <div class="form-group">
-                <textarea class="form-control animated-input" id="Message" name="Message"></textarea>
-                <label>Message</label>
-            </div>
-        </div>
-        <div class="col-md-12">
-            <div class="recapcha-and-btn">
-                <div class="recaptcha">
-                    <div data-sitekey="6LdOv88dAAAAAFJpnbzOywY7n_d4vLWt8ZWkzECA" data-theme="light" class="g-recaptcha builder-g-captcha-class"></div>
-                </div>
-                <div class="contact-btn">
-                    <button class="btn-main">Schedule Your Call</button>
-                </div>
-            </div>
-        </div>
-    </div>
-</form>
+                           <form id="contact-us-form" name="contact-us-form" action="https://api.web3forms.com/submit" method="POST">
+                              <!-- Web3Forms Access Key -->
+                              <input type="hidden" name="access_key" value="59a93f8b-7104-4ef0-a0b6-44578f841bd4">
+                          
+                              <div class="row">
+                                  <div class="col-md-12">
+                                      <div class="form-group">
+                                          <input type="text" class="form-control animated-input" id="Name" name="name" required>
+                                          <label>Name*</label>
+                                          <div class="NameError"></div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="form-group">
+                                          <input type="text" class="form-control animated-input" id="Designation" name="designation">
+                                          <label>Designation</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="form-group">
+                                          <input type="email" class="form-control animated-input" id="Email" name="email" required>
+                                          <label>Email*</label>
+                                          <div class="EmailError"></div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="form-group">
+                                          <input type="tel" class="form-control animated-input" id="Phone" name="phone" required>
+                                          <label>Phone*</label>
+                                          <div class="PhoneError"></div>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="form-group">
+                                          <select class="form-control animated-input" id="selectPracticeType" name="practice_type">
+                                              <option>&nbsp;</option>
+                                              <option>IVF Centers</option>
+                                              <option>Fertility Clinics</option>
+                                              <option>Gynecologists</option>
+                                              <option>Surrogacy Centers</option>
+                                          </select>
+                                          <label>Practice Type</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="form-group">
+                                          <input type="text" class="form-control animated-input" id="PracticeName" name="practice_name">
+                                          <label>Practice Name</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                      <div class="form-group">
+                                          <select class="form-control animated-input" id="selectEmployeeSize" name="employee_size">
+                                              <option>&nbsp;</option>
+                                              <option>5-10</option>
+                                              <option>10-25</option>
+                                              <option>25-50</option>
+                                              <option>50+</option>
+                                          </select>
+                                          <label>Employee Size</label>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="form-group">
+                                          <textarea class="form-control animated-input" id="Message" name="message"></textarea>
+                                          <label>Message</label>
+                                      </div>
+                                  </div>
+                          
+                                  <div class="col-md-12">
+                                      <div class="recapcha-and-btn">
+                                          <div class="recaptcha">
+                                              <!-- Uncomment and add your reCAPTCHA key if needed -->
+                                              <!-- <div class="g-recaptcha" data-sitekey="YOUR_RECAPTCHA_SITE_KEY"></div> -->
+                                          </div>
+                                          <div class="contact-btn">
+                                              <button class="btn-main" type="submit">Submit</button>
+                                          </div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </form>
+                          
                         </div>
                      </div>
                      <div class="col-lg-6 col-md-12">
