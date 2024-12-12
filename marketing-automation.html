@@ -1,4 +1,4 @@
-﻿
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-    <title>Medical Website Design | Healthcare DMS</title>
+    <title>Medical Website Design | Tonic Mantra</title>
 
         <meta name="description" content="Healthcare DMS is a customer-focused healthcare SEO company. We provide complete SEO services to Hospitals and private practices that help their practice rank higher in search engines.">
 
@@ -117,9 +117,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
    
    
-      <!-- header -->
-     <div id="header"></div>
-     <!-- header End  -->
+    <!-- header -->
+    <div id="header"></div>
+    <!-- header End  -->
+
       <div class="scroller_anchor"></div>
       <div class="modal fade" id="EnquiryPopup" tabindex="-1" role="dialog" aria-hidden="true">
          <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
@@ -909,6 +910,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      <div id="footer"></div>
      <!-- Footer End  -->
 
+
       <a class="scroll-to-top fade d-none d-md-block">
          <i class="fal fa-long-arrow-up"></i>
       </a>
@@ -958,24 +960,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <script src="ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
                 <script src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/contact-us-footer-form-validation.js?v=173720240637133670379"></script>
                 <script src="source/sites/cb9be165-52e4-4095-805e-bd230f69c5bc/js/recent-blog.js?v=140020220800193970718"></script>
-                <script>
-                  document.addEventListener("DOMContentLoaded", function () {
-                     fetch("./components/header.html")
-                        .then((response) => response.text())
-                        .then((data) => {
-                           document.getElementById("header").innerHTML = data;
-                        })
-                        .catch((error) => console.error("Error loading header:", error));
-                  });
-                  document.addEventListener("DOMContentLoaded", function () {
-                fetch("./components/footer.html")
-                  .then((response) => response.text())
-                  .then((data) => {
-                    document.getElementById("footer").innerHTML = data;
-                  })
-                  .catch((error) => console.error("Error loading header:", error));
-              });
-               </script>
+<script>
+      document.addEventListener("DOMContentLoaded", function () {
+         fetch("./components/header.html")
+            .then((response) => response.text())
+            .then((data) => {
+               document.getElementById("header").innerHTML = data;
+            })
+            .catch((error) => console.error("Error loading header:", error));
+      });
+      document.addEventListener("DOMContentLoaded", function () {
+    fetch("./components/footer.html")
+      .then((response) => response.text())
+      .then((data) => {
+        document.getElementById("footer").innerHTML = data;
+      })
+      .catch((error) => console.error("Error loading header:", error));
+  });
+   </script>s
 
 
 
