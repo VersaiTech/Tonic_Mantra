@@ -1,12 +1,24 @@
 <!-- Footer -->
      <div id="footer"></div>
      <!-- Footer End  -->
+     
+<!-- header -->
+     <div id="header"></div>
+     <!-- header End  -->
 
      
 <div class="footer-first">
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
+      document.addEventListener("DOMContentLoaded", function () {
+         fetch("./components/header.html")
+            .then((response) => response.text())
+            .then((data) => {
+               document.getElementById("header").innerHTML = data;
+            })
+            .catch((error) => console.error("Error loading header:", error));
+      });
+      document.addEventListener("DOMContentLoaded", function () {
     fetch("./components/footer.html")
       .then((response) => response.text())
       .then((data) => {
@@ -14,4 +26,4 @@
       })
       .catch((error) => console.error("Error loading header:", error));
   });
-</script>
+   </script>
